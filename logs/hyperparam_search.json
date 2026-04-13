@@ -1,0 +1,86 @@
+[
+  {
+    "lr": 0.0005,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "val_acc": 96.25,
+    "time_s": 237.3
+  },
+  {
+    "lr": 0.001,
+    "batch_size": 64,
+    "dropout": 0.5,
+    "val_acc": 95.13,
+    "time_s": 239.1
+  },
+  {
+    "lr": 0.001,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "val_acc": 94.31,
+    "time_s": 241.2
+  },
+  {
+    "lr": 0.001,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "val_acc": 93.93,
+    "time_s": 233.0
+  },
+  {
+    "lr": 0.001,
+    "batch_size": 32,
+    "dropout": 0.5,
+    "val_acc": 92.43,
+    "time_s": 242.2
+  },
+  {
+    "lr": 0.0005,
+    "batch_size": 32,
+    "dropout": 0.5,
+    "val_acc": 87.79,
+    "time_s": 234.7
+  },
+  {
+    "lr": 0.0005,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "val_acc": 84.64,
+    "time_s": 237.0
+  },
+  {
+    "lr": 0.0005,
+    "batch_size": 64,
+    "dropout": 0.5,
+    "val_acc": 81.57,
+    "time_s": 234.2
+  },
+  {
+    "lr": 0.01,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "val_acc": 31.46,
+    "time_s": 233.3
+  },
+  {
+    "lr": 0.01,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "val_acc": 24.19,
+    "time_s": 238.4
+  },
+  {
+    "lr": 0.01,
+    "batch_size": 64,
+    "dropout": 0.5,
+    "val_acc": 20.37,
+    "time_s": 236.2
+  },
+  {
+    "lr": 0.01,
+    "batch_size": 32,
+    "dropout": 0.5,
+    "val_acc": 17.23,
+    "time_s": 238.3
+  }
+]
