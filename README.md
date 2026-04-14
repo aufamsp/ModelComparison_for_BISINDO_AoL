@@ -1,8 +1,5 @@
 # Model Comparison for BISINDO Hand Gesture Recognition
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-
 ## Overview
  
 This repository contains code for comparing two deep learning models for Indonesian Sign Language (BISINDO) hand gesture recognition. The project implements and evaluates a Custom CNN and MobileNetV2 on the BISINDO v3 dataset from Roboflow, including full data cleaning, class imbalance handling, hyperparameter tuning, and augmentation pipelines.
@@ -122,7 +119,7 @@ pip install torch torchvision matplotlib seaborn scikit-learn pandas numpy pillo
    - Data Augmentation
    - Hyperparameter Grid Search
    - Model Implementation & Training (30 epochs each)
-   - Evaluation: Confusion Matrices, Per-class F1, Final Summary
+   - Evaluation: Confusion Matrics, Per-class F1, Final Summary
  
 ## Class Imbalance Handling
  
