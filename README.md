@@ -112,7 +112,7 @@ pip install torch torchvision matplotlib seaborn scikit-learn pandas numpy pillo
  
 3. **Run the Notebook**:
    ```bash
-   jupyter notebook BISINDO_Full_Pipeline_with_Logs.ipynb
+   jupyter notebook ModelComparison_for_BISINDO.ipynb
    ```
  
 4. **Follow the Notebook Sections**:
